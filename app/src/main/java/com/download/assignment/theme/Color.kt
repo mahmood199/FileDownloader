@@ -1,4 +1,4 @@
-package com.download.assignment.ui.theme
+package com.download.assignment.theme
 
 import androidx.compose.ui.graphics.Color
 
